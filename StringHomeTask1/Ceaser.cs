@@ -10,6 +10,7 @@ namespace StringHomeTask1
     {
         public static string CeaserMethod()
         {
+            //sezar shifrelenmesi
             Console.Write("Nece herf saga surusdurmek isteyirsiniz: ");
             int a = int.Parse(Console.ReadLine());
             Console.Write("Herf ve ya sozu daxil edin: ");   
